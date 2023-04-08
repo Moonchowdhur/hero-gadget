@@ -1,5 +1,5 @@
 import React from 'react';
-
+// 
 const Loading = () => {
     return (
         <div className=' animate-bounce text-9xl justify-center items-center h-screen flex'>
